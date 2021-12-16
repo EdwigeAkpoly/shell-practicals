@@ -1,0 +1,1000 @@
+ 1032  cd /home/edwige/.cache/.fr-jJYlE9/MEMOIRE
+ 1033  clear
+ 1034  cd /home/edwige/Documents/MM2/MEMOIRE
+ 1035  clear
+ 1036  cd /home/edwige/Documents/VEri
+ 1037  clear
+ 1038  cd /home/edwige/Documents/MM2
+ 1039  clear
+ 1040  cd /home/edwige/Documents/MM2/MEMOIRE
+ 1041  clear
+ 1042  cd /home/edwige/Documents/MM2
+ 1043  clear
+ 1044  cd /home/edwige/Documents/MM2
+ 1045  clear
+ 1046  cd /home/edwige/Documents/MM2
+ 1047  clear
+ 1048  cd /home/edwige/Documents/MM2
+ 1049  clear
+ 1050  cd /home/edwige/Documents/MM2
+ 1051  clear
+ 1052  cd /media/edwige/tossou/Bellefougou
+ 1053  clear
+ 1054  cd /media/edwige/tossou/Bellefougou
+ 1055  clear
+ 1056  cd /media/edwige/tossou/Bellefougou
+ 1057  clear
+ 1058  cd /media/edwige/tossou/Bellefougou
+ 1059  clear
+ 1060  cd /media/edwige/tossou/Bellefougou
+ 1061  clear
+ 1062  cd /home/edwige/Documents/MM2
+ 1063  clear
+ 1064  cd /home/edwige/Documents/MM2/Edwige
+ 1065  clear
+ 1066  cd /home/edwige/Documents/MM2
+ 1067  clear
+ 1068  cd /home/edwige/Téléchargements
+ 1069  clear
+ 1070  cd /home/edwige/Documents/MM2
+ 1071  clear
+ 1072  cd /home/edwige/Téléchargements
+ 1073  clear
+ 1074  cd /home/edwige/Documents/MM2
+ 1075  clear
+ 1076  cd /home/edwige/Téléchargements
+ 1077  clear
+ 1078  cd /home/edwige/Documents/MM2
+ 1079  clear
+ 1080  cd /home/edwige/Documents/MM2/Edwige
+ 1081  clear
+ 1082  cd /home/edwige/Documents/MM2
+ 1083  clear
+ 1084  cd /home/edwige/Documents/MM2
+ 1085  clear
+ 1086  cd /home/edwige/Documents/MM2
+ 1087  clear
+ 1088  cd /home/edwige/Documents/MM2
+ 1089  clear
+ 1090  cd /home/edwige/Documents/MM2/Renaud/RenaudMaster
+ 1091  clear
+ 1092  cd /home/edwige/Documents/MM2
+ 1093  clear
+ 1094  cd /home/edwige/Documents/MM2/Edwige
+ 1095  clear
+ 1096  cd /home/edwige/Téléchargements
+ 1097  clear
+ 1098  cd /home/edwige/Documents/MM2/Renaud/RenaudMaster
+ 1099  clear
+ 1100  cd /home/edwige/Documents/MM2/Edwige
+ 1101  clear
+ 1102  cd /home/edwige/Téléchargements
+ 1103  clear
+ 1104  cd /home/edwige/Documents/MM2/Edwige
+ 1105  clear
+ 1106  cd /tmp/kile-livepreview.NMfKea
+ 1107  clear
+ 1108  cd /home/edwige/Documents/MM2/Edwige
+ 1109  clear
+ 1110  cd /tmp/kile-livepreview.NMfKea
+ 1111  clear
+ 1112  cd /home/edwige/Documents/MM2/Edwige
+ 1113  clear
+ 1114  cd /home/edwige/Documents/MM2/Renaud/RenaudMaster
+ 1115  clear
+ 1116  cd /home/edwige/Documents/MM2/Edwige
+ 1117  clear
+ 1118  cd /home/edwige/Documents/memoire_nawal_article
+ 1119  clear
+ 1120  cd /home/edwige/Documents/MM2/Edwige
+ 1121  clear
+ 1122  cd /home/edwige/Documents/MM2/Edwige
+ 1123  clear
+ 1124  cd /home/edwige/Documents/memoire_nawal_article
+ 1125  clear
+ 1126  cd '/run/user/1000/gvfs/mtp:host=HUAWEI_MAR-LX1A_L2N0219A25004243/Mémoire de stockage interne/WhatsApp Business/Media/WhatsApp Business Documents'
+ 1127  clear
+ 1128  cd /home/edwige/Documents/MM2/Edwige
+ 1129  clear
+ 1130  cd '/run/user/1000/gvfs/mtp:host=HUAWEI_MAR-LX1A_L2N0219A25004243/Mémoire de stockage interne/WhatsApp Business/Media/WhatsApp Business Documents'
+ 1131  clear
+ 1132  cd /home/edwige/Documents/memoire_nawal_article
+ 1133  clear
+ 1134  cd /home/edwige/Documents/memoire_nawal_article
+ 1135  clear
+ 1136  cd /home/edwige/Documents/memoire_nawal_article
+ 1137  clear
+ 1138  cd /home/edwige/Documents/MM2/Edwige
+ 1139  clear
+ 1140  cd /home/edwige/Documents/memoire_nawal_article
+ 1141  clear
+ 1142  cd /home/edwige/Documents/MM2/Edwige
+ 1143  clear
+ 1144  cd /home/edwige/Documents/memoire_nawal_article
+ 1145  clear
+ 1146  cd /home/edwige/Documents/MM2/Edwige
+ 1147  clear
+ 1148  cd /home/edwige/Documents/MM2
+ 1149  clear
+ 1150  cd /home/edwige/Documents/memoire_nawal_article
+ 1151  clear
+ 1152  cd /home/edwige/Documents/MM2/Edwige
+ 1153  clear
+ 1154  cd /home/edwige/Documents/MM2
+ 1155  clear
+ 1156  cd /home/edwige/Documents/MM2/Edwige
+ 1157  clear
+ 1158  cd /home/edwige/Documents/MM2
+ 1159  clear
+ 1160  cd /home/edwige/Documents/MM2/Edwige
+ 1161  clear
+ 1162  cd /home/edwige/Documents/MM2
+ 1163  clear
+ 1164  cd /home/edwige/Documents/MM2/Edwige
+ 1165  clear
+ 1166  cd /home/edwige/Documents/MM2
+ 1167  clear
+ 1168  cd /home/edwige/Documents/MM2/Edwige
+ 1169  clear
+ 1170  cd /home/edwige/Documents/MM2
+ 1171  clear
+ 1172  cd /home/edwige/Documents/MM2/Edwige
+ 1173  clear
+ 1174  cd /home/edwige/Documents/MM2
+ 1175  clear
+ 1176  cd /home/edwige/Documents/MM2/Edwige
+ 1177  clear
+ 1178  cd /home/edwige/Documents/MM2
+ 1179  clear
+ 1180  cd /home/edwige/Documents/MM2/Edwige
+ 1181  clear
+ 1182  cd /home/edwige/Documents/MM2
+ 1183  clear
+ 1184  cd /home/edwige/Documents/MM2/Edwige
+ 1185  clear
+ 1186  cd /home/edwige/Documents/MM2
+ 1187  clear
+ 1188  cd /home/edwige/Documents/MM2/Edwige
+ 1189  clear
+ 1190  cd /home/edwige/Documents/MM2
+ 1191  clear
+ 1192  cd /home/edwige/Documents/MM2/Edwige
+ 1193  clear
+ 1194  cd /tmp/kile-livepreview.BVrtaq
+ 1195  clear
+ 1196  cd /home/edwige/Documents/MM2/Edwige
+ 1197  clear
+ 1198  cd /home/edwige/Documents/MM2
+ 1199  clear
+ 1200  cd /home/edwige/Documents/MM2/Edwige
+ 1201  clear
+ 1202  cd /home/edwige/Documents/MM2
+ 1203  clear
+ 1204  cd /home/edwige/Documents/MM2/Edwige
+ 1205  clear
+ 1206  cd /home/edwige/Documents/MM2
+ 1207  clear
+ 1208  cd /home/edwige/Documents/MM2/Edwige
+ 1209  clear
+ 1210  cd /home/edwige/Documents/MM2
+ 1211  clear
+ 1212  cd /home/edwige/Documents/MM2/Edwige
+ 1213  clear
+ 1214  cd /home/edwige/Documents/MM2
+ 1215  clear
+ 1216  cd /home/edwige/Documents/MM2/Renaud/yo/page_de_garde
+ 1217  clear
+ 1218  cd /home/edwige/Documents/MM2
+ 1219  clear
+ 1220  cd /home/edwige/Documents/MM2/Renaud/yo/page_de_garde
+ 1221  clear
+ 1222  cd /home/edwige/Documents/MM2
+ 1223  clear
+ 1224  cd /home/edwige/Documents/MM2/Renaud/yo/page_de_garde
+ 1225  clear
+ 1226  cd /home/edwige/Documents/MM2
+ 1227  clear
+ 1228  cd /home/edwige/Documents/MM2/Renaud/yo/page_de_garde
+ 1229  clear
+ 1230  cd /home/edwige/Documents/MM2
+ 1231  clear
+ 1232  cd /home/edwige/Documents/MM2/Renaud
+ 1233  clear
+ 1234  cd /home/edwige/Documents/MM2/Renaud/yo/page_de_garde
+ 1235  clear
+ 1236  cd /home/edwige/Documents/MM2
+ 1237  clear
+ 1238  cd /home/edwige/Documents/MM2/Renaud/yo/page_de_garde
+ 1239  clear
+ 1240  cd /home/edwige/Documents/MM2
+ 1241  clear
+ 1242  cd /home/edwige/Documents/MM2/Renaud/yo/page_de_garde
+ 1243  clear
+ 1244  cd /home/edwige/Documents/MM2
+ 1245  clear
+ 1246  cd /home/edwige/Documents/MM2/Edwige
+ 1247  clear
+ 1248  cd /home/edwige/Documents/MM2
+ 1249  clear
+ 1250  cd /home/edwige/Documents/MM2/Renaud/yo/page_de_garde
+ 1251  clear
+ 1252  cd /home/edwige/Documents/MM2
+ 1253  clear
+ 1254  cd /home/edwige/Documents/MM2
+ 1255  clear
+ 1256  cd /home/edwige/Documents/MM2
+ 1257  clear
+ 1258  cd /home/edwige/Documents/MM2
+ 1259  clear
+ 1260  cd /home/edwige/Documents/MM2
+ 1261  clear
+ 1262  cd /home/edwige/Documents/MM2/MEMOIR
+ 1263  clear
+ 1264  cd /home/edwige/Documents/MM2
+ 1265  clear
+ 1266  cd /home/edwige/Documents/MM2/MEMOIR
+ 1267  clear
+ 1268  cd /home/edwige/Documents/MM2
+ 1269  clear
+ 1270  cd /home/edwige/Documents/MM2/MEMOIR
+ 1271  clear
+ 1272  cd /home/edwige/Documents/MM2
+ 1273  clear
+ 1274  cd /home/edwige/Documents/MM2/MEMOIR
+ 1275  clear
+ 1276  cd /tmp
+ 1277  clear
+ 1278  cd /home/edwige/Documents/Y
+ 1279  clear
+ 1280  cd /home/edwige/Documents/MM2
+ 1281  clear
+ 1282  cd /home/edwige/Documents/Y
+ 1283  clear
+ 1284  cd /home/edwige/Documents/MM2
+ 1285  clear
+ 1286  cd /home/edwige/Documents/Y
+ 1287  clear
+ 1288  cd /home/edwige/Documents/MM2
+ 1289  clear
+ 1290  cd /home/edwige/Documents/Y
+ 1291  clear
+ 1292  cd /home/edwige/Documents/MM2
+ 1293  clear
+ 1294  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1295  clear
+ 1296  cd /home/edwige/Documents/MM2
+ 1297  clear
+ 1298  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1299  clear
+ 1300  cd /home/edwige/Documents/MM2
+ 1301  clear
+ 1302  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1303  clear
+ 1304  cd /home/edwige/Documents/MM2
+ 1305  clear
+ 1306  cd /home/edwige/Documents/MM2/MEMOIR
+ 1307  clear
+ 1308  cd /home/edwige/Documents/MM2
+ 1309  clear
+ 1310  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1311  clear
+ 1312  cd /home/edwige/Documents/MM2/MEMOIR
+ 1313  clear
+ 1314  cd /home/edwige/Documents/MM2
+ 1315  clear
+ 1316  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1317  clear
+ 1318  cd /home/edwige/Documents/MM2/MEMOIR
+ 1319  clear
+ 1320  cd /home/edwige/Documents/MM2
+ 1321  clear
+ 1322  cd /home/edwige/Documents/MM2/MEMOIR
+ 1323  clear
+ 1324  cd /home/edwige/Documents/MM2
+ 1325  clear
+ 1326  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1327  clear
+ 1328  cd /home/edwige/Documents/MM2
+ 1329  clear
+ 1330  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1331  clear
+ 1332  cd /home/edwige/Documents/MM2
+ 1333  clear
+ 1334  cd /home/edwige/Documents/MM2/MEMOIR
+ 1335  clear
+ 1336  cd /home/edwige/Documents/MM2
+ 1337  clear
+ 1338  cd /home/edwige/Documents/MM2/MEMOIR
+ 1339  clear
+ 1340  cd /home/edwige/Documents/MM2
+ 1341  clear
+ 1342  cd /home/edwige/Documents/MM2/MEMOIR
+ 1343  clear
+ 1344  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1345  clear
+ 1346  cd /home/edwige/Documents/MM2
+ 1347  clear
+ 1348  cd /home/edwige/Documents/Y
+ 1349  clear
+ 1350  cd /home/edwige/Documents/MM2
+ 1351  clear
+ 1352  cd /home/edwige/Documents/Y
+ 1353  clear
+ 1354  cd /home/edwige/Documents/MM2
+ 1355  clear
+ 1356  anaconda-navigatori
+ 1357  anaconda-navigator
+ 1358  cd /home/edwige/Documents/MM2
+ 1359  clear
+ 1360  cd /home/edwige/Documents/MM2
+ 1361  clear
+ 1362  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1363  clear
+ 1364  cd /home/edwige/Documents/MM2
+ 1365  clear
+ 1366  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1367  clear
+ 1368  cd /home/edwige/Documents/MM2
+ 1369  clear
+ 1370  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1371  clear
+ 1372  cd /home/edwige/Documents/MM2
+ 1373  clear
+ 1374  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1375  clear
+ 1376  cd /home/edwige/Documents/MM2
+ 1377  clear
+ 1378  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1379  clear
+ 1380  cd /home/edwige/Documents/MM2
+ 1381  clear
+ 1382  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1383  clear
+ 1384  cd /home/edwige/Documents/MM2
+ 1385  clear
+ 1386  cd /home/edwige/.cache/.fr-BEP3h5/Prototype_Beamer
+ 1387  clear
+ 1388  cd /home/edwige/Documents/MM2
+ 1389  clear
+ 1390  cd /home/edwige/.cache/.fr-BEP3h5/Prototype_Beamer
+ 1391  clear
+ 1392  cd /home/edwige/Documents/MM2
+ 1393  clear
+ 1394  cd /home/edwige/.cache/.fr-BEP3h5/Prototype_Beamer
+ 1395  clear
+ 1396  cd /home/edwige/Documents/MM2
+ 1397  clear
+ 1398  cd /home/edwige/.cache/.fr-BEP3h5/Prototype_Beamer
+ 1399  clear
+ 1400  cd /home/edwige/Documents/MM2
+ 1401  clear
+ 1402  cd /home/edwige/.cache/.fr-BEP3h5/Prototype_Beamer
+ 1403  clear
+ 1404  cd /home/edwige/Documents/MM2
+ 1405  clear
+ 1406  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1407  clear
+ 1408  cd /home/edwige/Documents/MM2
+ 1409  clear
+ 1410  cd /home/edwige/.cache/.fr-BEP3h5/Prototype_Beamer
+ 1411  clear
+ 1412  cd /home/edwige/Documents/MM2
+ 1413  clear
+ 1414  cd /home/edwige/.cache/.fr-BEP3h5/Prototype_Beamer
+ 1415  clear
+ 1416  cd /home/edwige/Documents/MM2
+ 1417  clear
+ 1418  cd /home/edwige/.cache/.fr-BEP3h5/Prototype_Beamer
+ 1419  clear
+ 1420  cd /home/edwige/Documents/MM2
+ 1421  clear
+ 1422  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1423  clear
+ 1424  cd /home/edwige/Documents/MM2
+ 1425  clear
+ 1426  cd /home/edwige/Documents/MM2
+ 1427  clear
+ 1428  cd /usr/share/texlive/texmf-dist/tex/latex/beamer
+ 1429  clear
+ 1430  cd /home/edwige/Documents/MM2
+ 1431  clear
+ 1432  cd /home/edwige/Documents/Prototype_Beamer
+ 1433  clear
+ 1434  cd /home/edwige/Documents/MM2
+ 1435  clear
+ 1436  cd /home/edwige/Documents/Prototype_Beamer
+ 1437  clear
+ 1438  cd /home/edwige/Documents/MM2
+ 1439  clear
+ 1440  cd /home/edwige/Documents/Prototype_Beamer
+ 1441  clear
+ 1442  cd /home/edwige/Documents/MM2
+ 1443  clear
+ 1444  cd /home/edwige/Documents/Prototype_Beamer
+ 1445  clear
+ 1446  cd /home/edwige/Documents/MM2
+ 1447  clear
+ 1448  cd /home/edwige/Documents/MM2
+ 1449  clear
+ 1450  cd /home/edwige/Documents/MM2
+ 1451  clear
+ 1452  cd /home/edwige/Documents/Prototype_Beamer
+ 1453  clear
+ 1454  cd /home/edwige/Documents/MM2
+ 1455  clear
+ 1456  cd /home/edwige/Musique
+ 1457  clear
+ 1458  cd /home/edwige/Documents/MM2
+ 1459  clear
+ 1460  cd /home/edwige/Documents/Prototype_Beamer
+ 1461  clear
+ 1462  cd /home/edwige/Documents/MM2
+ 1463  clear
+ 1464  cd /home/edwige/Documents/Prototype_Beamer
+ 1465  clear
+ 1466  cd /home/edwige/Musique
+ 1467  clear
+ 1468  cd /home/edwige/Documents/MM2
+ 1469  clear
+ 1470  cd /home/edwige/Musique
+ 1471  clear
+ 1472  cd /home/edwige/Documents/MM2
+ 1473  clear
+ 1474  cd /usr/share/texlive/texmf-dist/tex/latex/beamer
+ 1475  clear
+ 1476  cd /home/edwige/Musique
+ 1477  clear
+ 1478  cd /home/edwige/Documents/MM2
+ 1479  clear
+ 1480  cd /home/edwige/Musique
+ 1481  clear
+ 1482  cd /home/edwige/Documents/MM2
+ 1483  clear
+ 1484  cd /home/edwige/Musique
+ 1485  clear
+ 1486  cd /home/edwige/Documents/MM2
+ 1487  clear
+ 1488  cd /home/edwige/Documents/Prototype_Beamer
+ 1489  clear
+ 1490  cd /home/edwige/Documents/MM2
+ 1491  clear
+ 1492  cd /home/edwige/Musique
+ 1493  clear
+ 1494  cd /home/edwige/Documents/MM2
+ 1495  clear
+ 1496  cd /home/edwige/Musique
+ 1497  clear
+ 1498  cd /home/edwige/Documents/MM2
+ 1499  clear
+ 1500  cd /home/edwige/Musique
+ 1501  clear
+ 1502  cd /home/edwige/Documents/MM2
+ 1503  clear
+ 1504  cd /home/edwige/Musique
+ 1505  clear
+ 1506  cd /home/edwige/Documents/MM2
+ 1507  clear
+ 1508  cd /home/edwige/Musique
+ 1509  clear
+ 1510  cd /home/edwige/Documents/MM2
+ 1511  clear
+ 1512  cd /home/edwige/Documents/MM2
+ 1513  clear
+ 1514  cd /home/edwige/Documents/MM2
+ 1515  clear
+ 1516  cd /home/edwige/Documents/MM2
+ 1517  clear
+ 1518  cd /home/edwige/Documents/MM2
+ 1519  clear
+ 1520  cd /home/edwige/Documents/MM2
+ 1521  clear
+ 1522  cd /home/edwige/Musique
+ 1523  clear
+ 1524  cd /home/edwige/Documents/MM2
+ 1525  clear
+ 1526  cd /home/edwige/Musique
+ 1527  clear
+ 1528  cd /home/edwige/Documents/MM2
+ 1529  clear
+ 1530  cd /home/edwige/Musique
+ 1531  clear
+ 1532  cd /home/edwige/Documents/MM2
+ 1533  clear
+ 1534  cd /home/edwige/Musique
+ 1535  clear
+ 1536  cd /home/edwige/Documents/MM2
+ 1537  clear
+ 1538  cd /home/edwige/Musique
+ 1539  clear
+ 1540  cd /home/edwige/Documents/MM2
+ 1541  clear
+ 1542  cd /home/edwige/Documents/MM2
+ 1543  clear
+ 1544  cd /home/edwige/Musique
+ 1545  clear
+ 1546  cd /home/edwige/Documents/MM2
+ 1547  clear
+ 1548  cd /home/edwige/Musique
+ 1549  clear
+ 1550  cd /home/edwige/Documents/MM2
+ 1551  clear
+ 1552  cd /home/edwige/Musique
+ 1553  clear
+ 1554  cd /home/edwige/Documents/MM2
+ 1555  clear
+ 1556  cd /home/edwige/Documents/MM2
+ 1557  clear
+ 1558  cd /home/edwige/Musique
+ 1559  clear
+ 1560  cd /home/edwige/Documents/MM2
+ 1561  clear
+ 1562  cd /home/edwige/Musique
+ 1563  clear
+ 1564  cd /home/edwige/Documents/MM2
+ 1565  clear
+ 1566  cd /home/edwige
+ 1567  clear
+ 1568  cd /home/edwige/Documents/MM2
+ 1569  clear
+ 1570  cd /home/edwige
+ 1571  clear
+ 1572  cd /home/edwige/Documents/MM2
+ 1573  clear
+ 1574  cd /home/edwige
+ 1575  clear
+ 1576  cd /home/edwige/Documents/MM2
+ 1577  clear
+ 1578  cd /home/edwige/Musique
+ 1579  clear
+ 1580  cd /home/edwige/Documents/MM2
+ 1581  clear
+ 1582  cd /home/edwige/Documents/MM2
+ 1583  clear
+ 1584  cd /home/edwige/Musique
+ 1585  clear
+ 1586  cd /home/edwige/Documents/MM2
+ 1587  clear
+ 1588  cd /home/edwige/Musique
+ 1589  clear
+ 1590  cd /home/edwige/Documents/MM2
+ 1591  clear
+ 1592  cd /home/edwige/Musique
+ 1593  clear
+ 1594  cd /home/edwige/Documents/MM2
+ 1595  clear
+ 1596  cd /home/edwige/Documents/MM2
+ 1597  clear
+ 1598  cd /home/edwige/Musique
+ 1599  clear
+ 1600  cd /home/edwige/Documents/MM2
+ 1601  clear
+ 1602  cd /home/edwige/Documents/MM2
+ 1603  clear
+ 1604  cd /home/edwige/Musique
+ 1605  clear
+ 1606  cd /home/edwige/Documents/MM2
+ 1607  clear
+ 1608  cd /home/edwige/Musique
+ 1609  clear
+ 1610  cd /home/edwige/Documents/MM2
+ 1611  clear
+ 1612  cd /home/edwige/Documents/MM2/Renaud/RenaudMaster
+ 1613  clear
+ 1614  cd /home/edwige/Documents/MM2/Renaud
+ 1615  clear
+ 1616  cd /home/edwige/Documents/MM2
+ 1617  clear
+ 1618  cd /home/edwige/Musique
+ 1619  clear
+ 1620  cd /home/edwige/Documents/MM2
+ 1621  clear
+ 1622  cd /home/edwige/Documents/MM2/Renaud/RenaudMaster
+ 1623  clear
+ 1624  cd /home/edwige/Documents/MM2/Renaud
+ 1625  clear
+ 1626  cd /home/edwige/Documents/MM2/Renaud/RenaudMaster
+ 1627  clear
+ 1628  cd /home/edwige/Documents/MM2
+ 1629  clear
+ 1630  cd /home/edwige/Musique
+ 1631  clear
+ 1632  cd /home/edwige/Documents/MM2
+ 1633  clear
+ 1634  cd /home/edwige/Documents/MM2
+ 1635  clear
+ 1636  cd /home/edwige/Musique
+ 1637  clear
+ 1638  cd /home/edwige/Documents/MM2
+ 1639  clear
+ 1640  cd /media/edwige/tossou/fig2
+ 1641  clear
+ 1642  cd /home/edwige/Documents/MM2
+ 1643  clear
+ 1644  cd /home/edwige/Musique
+ 1645  clear
+ 1646  cd /home/edwige/Documents/MM2
+ 1647  clear
+ 1648  cd /home/edwige/Documents/MM2
+ 1649  clear
+ 1650  cd /home/edwige/Musique
+ 1651  clear
+ 1652  cd /home/edwige/Documents/MM2
+ 1653  clear
+ 1654  cd /home/edwige/Documents/MM2
+ 1655  clear
+ 1656  cd /home/edwige/Musique
+ 1657  clear
+ 1658  cd /home/edwige/Documents/MM2
+ 1659  clear
+ 1660  sudo apt install r-base
+ 1661  r
+ 1662  sudo apt install gdebi
+ 1663  sudo apt uninstall gdebi
+ 1664  cd /home/edwige/Documents/MM2
+ 1665  clear
+ 1666  cd /home/edwige/Musique
+ 1667  clear
+ 1668  cd /home/edwige/Documents/MM2
+ 1669  clear
+ 1670  cd /home/edwige/Documents/MM2/Renaud
+ 1671  clear
+ 1672  cd /home/edwige/Documents/MM2/Renaud/yo
+ 1673  clear
+ 1674  cd /home/edwige/Documents/MM2/MM2/page-garde-master2
+ 1675  clear
+ 1676  cd /home/edwige/Documents/MM2/Renaud/yo
+ 1677  clear
+ 1678  cd /home/edwige/Documents/MM2/Renaud
+ 1679  clear
+ 1680  cd /home/edwige/Documents/MM2
+ 1681  clear
+ 1682  cd /home/edwige/Musique
+ 1683  clear
+ 1684  cd /home/edwige/Documents/MM2
+ 1685  clear
+ 1686  clear
+ 1687  cd /home/edwige/Documents/AIMS
+ 1688  clear
+ 1689  cd /home/edwige/Documents/AIMS
+ 1690  clear
+ 1691  cd /home/edwige/Documents/AIMS
+ 1692  clear
+ 1693  cd /home/edwige/Documents/AIMS
+ 1694  clear
+ 1695  cd /home/edwige/Documents/MM2
+ 1696  clear
+ 1697  cd /home/edwige/Documents/AIMS
+ 1698  clear
+ 1699  cd /home/edwige/Documents/AIMS
+ 1700  clear
+ 1701  cd /home/edwige/Documents/texAlgebre
+ 1702  clear
+ 1703  cd /home/edwige/Documents/texAlgebre
+ 1704  clear
+ 1705  cd /home/edwige/Documents/MM2
+ 1706  clear
+ 1707  cd /home/edwige/Documents/texAlgebre
+ 1708  clear
+ 1709  cd /home/edwige/Documents/MM2
+ 1710  clear
+ 1711  cd /home/edwige/Documents/texAlgebre
+ 1712  clear
+ 1713  cd /home/edwige/Documents/MM2
+ 1714  clear
+ 1715  cd /home/edwige/Documents/texAlgebre
+ 1716  clear
+ 1717  cd /home/edwige/Documents/MM2
+ 1718  clear
+ 1719  cd /home/edwige/Documents/texAlgebre
+ 1720  clear
+ 1721  cd /home/edwige/Documents/MM2
+ 1722  clear
+ 1723  cd /home/edwige/Documents/texAlgebre
+ 1724  clear
+ 1725  cd /home/edwige/Documents/MM2
+ 1726  clear
+ 1727  cd /home/edwige/Documents/texAlgebre
+ 1728  clear
+ 1729  cd /usr/share/texlive/texmf-dist/tex/latex/beamer
+ 1730  clear
+ 1731  cd /home/edwige/Documents/MM2
+ 1732  clear
+ 1733  cd /usr/share/texlive/texmf-dist/tex/latex/beamer
+ 1734  clear
+ 1735  cd /home/edwige/Documents/MM2
+ 1736  clear
+ 1737  cd /home/edwige/Documents/texAlgebre
+ 1738  clear
+ 1739  cd /usr/share/texlive/texmf-dist/tex/latex/beamer
+ 1740  clear
+ 1741  cd /home/edwige/Documents/MM2
+ 1742  clear
+ 1743  cd /home/edwige/Documents/texAlgebre
+ 1744  clear
+ 1745  cd /usr/share/texlive/texmf-dist/tex/latex/beamer
+ 1746  clear
+ 1747  cd /home/edwige/Documents/MM2
+ 1748  clear
+ 1749  cd /home/edwige/Documents/texAlgebre
+ 1750  clear
+ 1751  cd /home/edwige/Documents/MM2
+ 1752  clear
+ 1753  cd /home/edwige/Documents/texAlgebre
+ 1754  clear
+ 1755  cd /home/edwige/Documents/MM2
+ 1756  clear
+ 1757  cd /home/edwige/Documents/texAlgebre
+ 1758  clear
+ 1759  cd /home/edwige/Documents/MM2
+ 1760  clear
+ 1761  cd /home/edwige/Documents/texAlgebre
+ 1762  clear
+ 1763  cd /home/edwige/Documents/MM2
+ 1764  clear
+ 1765  cd /home/edwige/Documents/texAlgebre
+ 1766  clear
+ 1767  cd /home/edwige/Documents/MM2
+ 1768  clear
+ 1769  cd /home/edwige/Documents/texAlgebre
+ 1770  clear
+ 1771  cd /home/edwige/Documents/MM2
+ 1772  clear
+ 1773  cd /home/edwige/Documents/texAlgebre
+ 1774  clear
+ 1775  cd /home/edwige/Documents/MM2
+ 1776  clear
+ 1777  cd /home/edwige/Documents/texAlgebre
+ 1778  clear
+ 1779  cd /home/edwige/Documents/MM2
+ 1780  clear
+ 1781  cd /home/edwige/Documents/texAlgebre
+ 1782  clear
+ 1783  cd /home/edwige/Documents/MM2
+ 1784  clear
+ 1785  cd /home/edwige/Documents/texAlgebre
+ 1786  clear
+ 1787  cd /home/edwige/Documents/MM2
+ 1788  clear
+ 1789  cd /home/edwige/Documents/texAlgebre
+ 1790  clear
+ 1791  cd /home/edwige/Documents/MM2
+ 1792  clear
+ 1793  cd /home/edwige/Documents/texAlgebre
+ 1794  clear
+ 1795  cd /home/edwige/Documents/MM2/Renaud
+ 1796  clear
+ 1797  cd /home/edwige/Documents/texAlgebre
+ 1798  clear
+ 1799  cd /home/edwige/Documents/MM2/Renaud
+ 1800  clear
+ 1801  cd /home/edwige/Documents/texAlgebre
+ 1802  clear
+ 1803  cd /home/edwige/Documents/MM2
+ 1804  clear
+ 1805  cd /home/edwige/Documents/MM2/Renaud
+ 1806  clear
+ 1807  cd /home/edwige/Documents/texAlgebre
+ 1808  clear
+ 1809  cd /home/edwige/Documents/MM2
+ 1810  clear
+ 1811  cd /home/edwige/Documents/texAlgebre
+ 1812  clear
+ 1813  cd /home/edwige/Documents/MM2
+ 1814  clear
+ 1815  cd /home/edwige/Documents/texAlgebre
+ 1816  clear
+ 1817  cd /home/edwige/Documents/MM2
+ 1818  clear
+ 1819  cd /home/edwige/Documents/texAlgebre
+ 1820  clear
+ 1821  cd /home/edwige/Documents/MM2
+ 1822  clear
+ 1823  cd /home/edwige/Documents/texAlgebre
+ 1824  clear
+ 1825  cd /home/edwige/Documents/MM2
+ 1826  clear
+ 1827  cd /home/edwige/Documents/texAlgebre
+ 1828  clear
+ 1829  cd /home/edwige/Documents/MM2
+ 1830  clear
+ 1831  cd /home/edwige/Documents/texAlgebre
+ 1832  clear
+ 1833  cd /home/edwige/Documents/texAlgebre
+ 1834  clear
+ 1835  cd /home/edwige/Documents/texAlgebre
+ 1836  clear
+ 1837  cd /home/edwige/Documents/MM2
+ 1838  clear
+ 1839  cd /home/edwige/Documents/texAlgebre
+ 1840  clear
+ 1841  cd /home/edwige/Documents/MM2
+ 1842  clear
+ 1843  cd /home/edwige/Documents/texAlgebre
+ 1844  clear
+ 1845  cd /home/edwige/Documents/MM2
+ 1846  clear
+ 1847  cd /home/edwige/Documents/texAlgebre
+ 1848  clear
+ 1849  cd /home/edwige/Documents/MM2
+ 1850  clear
+ 1851  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1852  clear
+ 1853  cd /home/edwige/Documents/texAlgebre
+ 1854  clear
+ 1855  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1856  clear
+ 1857  cd /home/edwige/Documents/texAlgebre
+ 1858  clear
+ 1859  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1860  clear
+ 1861  cd /home/edwige/Documents/texAlgebre
+ 1862  clear
+ 1863  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1864  clear
+ 1865  cd /home/edwige/Documents/texAlgebre
+ 1866  clear
+ 1867  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1868  clear
+ 1869  cd /home/edwige/Documents/texAlgebre
+ 1870  clear
+ 1871  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1872  clear
+ 1873  cd /home/edwige/Documents/texAlgebre
+ 1874  clear
+ 1875  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1876  clear
+ 1877  cd /home/edwige/Documents/texAlgebre
+ 1878  clear
+ 1879  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1880  clear
+ 1881  cd /home/edwige/Documents/texAlgebre
+ 1882  clear
+ 1883  cd /home/edwige/Documents/MM2
+ 1884  clear
+ 1885  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1886  clear
+ 1887  sudo apt install ./zoom_amd64.deb
+ 1888  sudo sh -c 'echo "deb http://deb.opera.com/opera/ stable non-free" >> /etc/apt/sources.list.d/opera.list'
+ 1889  sudo sh -c 'wget -O - http://deb.opera.com/archive.key | apt-key add -'sudo sh -c 'wget -O - http://deb.opera.com/archive.key | apt-key add -'
+ 1890  sudo apt-get update
+ 1891  sudo apt-get install opera
+ 1892  sudo apt-get install -y opera-stable
+ 1893  wget -qO - https://deb.opera.com/archive.key | sudo apt-key add -
+ 1894  sudo add-apt-repository 'deb https://deb.opera.com/opera-stable/ stable non-free'
+ 1895  sudo apt-get update
+ 1896  sudo apt install -V opera-stable
+ 1897  opera
+ 1898  cd /home/edwige/Documents/texAlgebre
+ 1899  clear
+ 1900  cd /home/edwige/Documents/MM2
+ 1901  clear
+ 1902  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1903  clear
+ 1904  cd /home/edwige/Documents/texAlgebre
+ 1905  clear
+ 1906  cd /home/edwige/Documents/MM2
+ 1907  clear
+ 1908  cd /home/edwige/Documents/MM2/Template_Beamer_rapport_these_yoo
+ 1909  clear
+ 1910  echo "Hello World"
+ 1911  "HEEHE"
+ 1912  echo "Je suis un cours de python actuellement"
+ 1913  cd shell
+ 1914  mkdir MyMusic
+ 1915  ls
+ 1916  rmdir MyMusic
+ 1917  ls
+ 1918  touch testfile
+ 1919  ls
+ 1920  man
+ 1921  man man
+ 1922  cat
+ 1923  gedit
+ 1924  nano testfile.txt
+ 1925  touch test2.texttr
+ 1926  ls
+ 1927  rmtouch test2.texttr
+ 1928  git clone
+ 1929  git clone https://github.com/gabayae/friendly-shell-lesson.git shell-lesson
+ 1930  sudo apt install git 
+ 1931  ls
+ 1932  git clone https://github.com/gabayae/friendly-shell-lesson.git shell-lesson
+ 1933  ls
+ 1934  cd shell
+ 1935  cd shell-lesson
+ 1936  cd ..
+ 1937  ls 
+ 1938  cd shell-lesson
+ 1939  tip ls
+ 1940  pwd
+ 1941  whoami
+ 1942  mkdir MyMusic
+ 1943  cd..
+ 1944  cd ..
+ 1945  cd..
+ 1946  cd ..
+ 1947  mkdir MyMusic 
+ 1948  mkdir MyMusid
+ 1949  cd shell-lesson
+ 1950  cddddddd
+ 1951  cd
+ 1952  mkdir simplestats
+ 1953  cd simplestats
+ 1954  git init
+ 1955  ls -A
+ 1956  cd .git
+ 1957  ls -A
+ 1958  get description 
+ 1959  gedit description 
+ 1960  touch README.md 
+ 1961  git status
+ 1962  cd ..
+ 1963  touch README.md
+ 1964  git status
+ 1965  git add README.md 
+ 1966  git status
+ 1967  git branch
+ 1968  git branch experimental
+ 1969  gedit README.md 
+ 1970  git log
+ 1971  git commit -ma "first commit"
+ 1972  git commit -m "first commit"
+ 1973  git config --global user.name "vigeo"
+ 1974  git config --global user.name "EdwigeAkpoly"
+ 1975  git config --global user.email "akpoly.f.edwige@aims-senegal.org"
+ 1976  git log
+ 1977  git commit -m "first commit"
+ 1978  git log
+ 1979  gedit README.md 
+ 1980  touch README.md 
+ 1981  gedit README.md 
+ 1982  git branch
+ 1983  git branch experimental
+ 1984  git branch
+ 1985  git branch -d experimental
+ 1986  git branch
+ 1987  git branch add_stat
+ 1988  git branch
+ 1989  git branch add_stat
+ 1990  git checkout add_stat 
+ 1991  git branch 
+ 1992  https://github.com/EdwigeAkpoly/shell-practicals.git
+ 1993  ls
+ 1994  https://github.com/EdwigeAkpoly/shell-practicals
+ 1995  git init unix
+ 1996  mkdir unix
+ 1997  rm unix
+ 1998  rm -r unix
+ 1999  mkdir unix 
+ 2000  touch foo.txt 
+ 2001  cd unix 
+ 2002  touch foo.txt 
+ 2003  cp foo.txt foo-copy.txt
+ 2004  ls 
+ 2005  mv foo-copy.txt foo2.txt
+ 2006  ls 
+ 2007  mkdir data
+ 2008  ls 
+ 2009  pwd
+ 2010  mv foo2.txt data
+ 2011  cd data 
+ 2012  ls 
+ 2013  cd ..
+ 2014  mkdir new
+ 2015  ls
+ 2016  cd data
+ 2017  mv foo2.txt /home/edwige/Documents/unix/new
+ 2018  cd ..
+ 2019  cd new
+ 2020  mv foo2.txt /home/edwige/Documents/unix
+ 2021  ls
+ 2022  cd ..
+ 2023  ls
+ 2024  mv foo2.txt foo-old.txt
+ 2025  ls
+ 2026  rm foo-old.txt 
+ 2027  ls
+ 2028  rm -r new
+ 2029  ls
+ 2030  hystory >> exo1.txt
+ 2031  history >> exo1.txt

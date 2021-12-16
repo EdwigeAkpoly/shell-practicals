@@ -1,0 +1,4 @@
+a- ls ~ : list all files
+b- ls * : to list all fils in all subdirectories
+c- wc : command to count lines, words and characters in the file
+d- wc -l : n'afiche que le nombre de ligne 
